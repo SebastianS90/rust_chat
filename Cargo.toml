@@ -1,0 +1,9 @@
+[package]
+
+name = "chat_server"
+version = "0.0.1"
+authors = [ "Sebastian Schweizer <sebastian@schweizer.tel>" ]
+
+[[bin]]
+
+name = "chat_server"
